@@ -67,7 +67,7 @@ echo "</tr></table>";
 	}
 	img {
 		padding: 10px;
-		width:  200px;
+		width:  500px;
 		object-fit: cover;
 	}
 	td {
