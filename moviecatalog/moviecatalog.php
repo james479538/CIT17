@@ -50,7 +50,7 @@ echo "</tr></table>";
 
 <style>
 	#movies {
-		background-color: #000;
+		background-color: #942d22;
 		color: #fff;
 		font: 11pt Calibri;
 	}
@@ -60,16 +60,14 @@ echo "</tr></table>";
 		font: bold 11pt Calibri;
 	}
 	tr.odd {
-		background-color: #18182b
+		background-color: #183552
 	}
 	tr.even {
 		background-color: #141423
 	}
 	img {
 		padding: 10px;
-		float: left;
-		width:  100px;
-		height: 100px;
+		width:  200px;
 		object-fit: cover;
 	}
 	td {
